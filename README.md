@@ -2,4 +2,4 @@
 *Инструкции и примеры работ*
 
 ### Инструкции
-- Поднимаем PostgreSQL на тестовом сервере [here](./PostgreSqlOnServer.md)
+- [Поднимаем PostgreSQL на тестовом сервере](./PostgreSqlOnServer.md)
