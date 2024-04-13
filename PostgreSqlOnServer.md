@@ -129,7 +129,7 @@ host user_db user_name 0.0.0.0/0 md5
    
 4.6 После этого сохраняем файл
 
-4.7 Опять перезапускаем сервер postgres
+4.7 Опять перезапускаем сервер PostgreSQL
 ```console
 systemctl restart postgresql
 ```
