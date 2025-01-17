@@ -21,7 +21,7 @@ apt install postgresql -y
 
 2.1 Подключаемся под пользователем postgres
 ```console
-su postgres
+sudo -i -u postgres
 ```
 
 2.2 Далее находясь под суперпользователем postgres, создаём нового пользователя
